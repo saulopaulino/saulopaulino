@@ -1,27 +1,35 @@
-name: Generate Snake
+name: Gerar Snake das Contribuições
 
 on:
-  schedule: # Gera a cada 24h
-    - cron: "0 0 * * *"
-  workflow_dispatch: # Permite rodar manualmente também
+  schedule:
+    - cron: '0 */12 * * *'  # Executa a cada 12 horas
+  workflow_dispatch:  # Permite execução manual
+  push:
+    branches:
+      - main  # Executa em cada push para a branch main
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Checkout do repositório
         uses: actions/checkout@v3
 
-      - name: Generate Snake animation
-        uses: Platane/snk/svg-only@v3
+      - name: Gerar Snake
+        uses: Platane/snk@v3
         with:
-          github_user_name: saulopaulino
-          outputs: dist/github-contribution-grid-snake.svg
-
-      - name: Push Snake animation to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.gif
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit e Push do GIF/SVG
+        run: |
+          git config --local user.name "github-actions"
+          git config --local user.email "github-actions@github.com"
+          git add dist/*
+          git commit -m "Atualiza Snake das Contribuições"
+          git push
