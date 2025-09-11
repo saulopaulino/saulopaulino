@@ -18,7 +18,7 @@ jobs:
       - name: Gerar Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: saulopaulino
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
@@ -31,5 +31,5 @@ jobs:
           git config --local user.name "github-actions"
           git config --local user.email "github-actions@github.com"
           git add dist/*
-          git commit -m "Atualiza Snake das Contribuições"
+          git commit -m "Atualiza Snake das Contribuições" || echo "Nada para atualizar"
           git push
