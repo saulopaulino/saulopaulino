@@ -4,7 +4,7 @@
 
 📚 Estudando para a certificação **AWS Developer Associate (DVA-C02)**  
 ☁️ Já certificado como **AWS Cloud Practitioner (CLF-C02)**  
-💻 Explorando **Python, React e Node.js**  
+💻 Explorando **Python, React, Node.js e SQL**  
 📊 Focado em aplicar **dados em nuvem** de forma prática e escalável  
 
 ---
@@ -36,7 +36,8 @@
 ---
 
 ## 🐍 Minhas Contribuições
-![Snake animation](https://github.com/saulopaulino/saulopaulino/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/saulopaulino/saulopaulino/blob/main/dist/github-contribution-grid-snake.svg)
 
 ---
+
 ✨ *"Sempre aprendendo, sempre explorando dados, sempre curioso."*
