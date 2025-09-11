@@ -1,4 +1,5 @@
-# 👨‍🔬 Saulo Paulino — De Laboratório à Nuvem com Ciência de Dados
+# 👨‍🔬 Saulo Paulino
+De Laboratório à Nuvem com Ciência de Dados
 
 🔍 Profissional de saúde atuando em laboratório clínico em uma renomada rede hospitalar  
 🚀 Em transição para **Ciência de Dados** e **Inteligência Artificial**  
