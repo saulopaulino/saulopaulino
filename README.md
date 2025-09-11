@@ -3,7 +3,7 @@
 🔬 Em transição de carreira: atualmente trabalho em **Laboratório** em uma renomada rede de hospitais do Brasil, mas estou mergulhando no mundo da **Ciência de Dados** e da **Inteligência Artificial**.  
 
 📚 Estudando para a certificação **AWS Developer Associate (DVA-C02)**  
-☁️ Já certificado como **AWS Cloud Practitioner**  
+☁️ Já certificado como **AWS Cloud Practitioner (CLF-C02)**  
 💻 Explorando **Python, React e Node.js**  
 📊 Focado em aplicar **dados em nuvem** de forma prática e escalável  
 
@@ -32,6 +32,11 @@
 
 ## 👀 Contador de Visitas
 ![Visitas](https://komarev.com/ghpvc/?username=saulopaulino&color=grey&style=for-the-badge)
+
+---
+
+## 🐍 Minhas Contribuições
+![Snake animation](https://github.com/saulopaulino/saulopaulino/blob/output/github-contribution-grid-snake.svg)
 
 ---
 ✨ *"Sempre aprendendo, sempre explorando dados, sempre curioso."*
