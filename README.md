@@ -9,7 +9,6 @@ De Laboratório à Nuvem com Ciência de Dados
 📊 Focado em aplicar **dados em nuvem** de forma prática e escalável
 
 ---
-
 ## 🚀 Tecnologias em aprendizado
 
 **☁️ Cloud & DevOps**  
@@ -17,10 +16,19 @@ De Laboratório à Nuvem com Ciência de Dados
 
 **🐍 Backend**  
 ![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=3776AB)  
-![Node.js](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=339933)
+![Node.js](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=339933)  
+![PHP](https://img.shields.io/badge/PHP-20232A?style=for-the-badge&logo=php&logoColor=777BB4)
 
 **⚛️ Frontend**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**🗄️ Banco de Dados**  
+![SQL](https://img.shields.io/badge/SQL-20232A?style=for-the-badge&logo=mysql&logoColor=4479A1)
+
+**📊 Ferramentas**  
+![Power BI](https://img.shields.io/badge/Power%20BI-20232A?style=for-the-badge&logo=powerbi&logoColor=F2C811)  
+![Streamlit](https://img.shields.io/badge/Streamlit-20232A?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)
+
 
 ---
 
