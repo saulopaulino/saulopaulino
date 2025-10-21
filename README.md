@@ -2,14 +2,23 @@
 De Laboratório à Nuvem com Ciência de Dados
 
 🔍 Profissional de saúde atuando em laboratório clínico em uma renomada rede hospitalar  
-🚀 Em transição para **Ciência de Dados** e **Inteligência Artificial**  
-📚 Estudando para a certificação **AWS Developer Associate (DVA-C02)**  
-☁️ Certificado como **AWS Cloud Practitioner (CLF-C02)**  
-💻 Explorando **Python, React, Node.js e SQL**  
+🚀 Em transição para **Ciência de Dados** e **Inteligência Artificial** com foco em Desenvolvimento  
 📊 Focado em aplicar **dados em nuvem** de forma prática e escalável
 
+## 🎓 Formação Acadêmica & Certificações
+
+**🎓 Graduação**  
+Formado em **Ciência de Dados com ênfase em Inteligência Artificial**
+
+**🎓 Pós-Graduação**  
+Cursando **Projetos de Cloud Computing**
+
+**📚 Certificações**  
+**AWS Cloud Practitioner (CLF-C02)**  
+Estudando para **AWS Developer Associate (DVA-C02)**
+
 ---
-## 🚀 Tecnologias em aprendizado
+## 🚀 Tecnologias em Desenvolvimento
 
 **☁️ Cloud & DevOps**  
 ![AWS](https://img.shields.io/badge/AWS-20232A?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
